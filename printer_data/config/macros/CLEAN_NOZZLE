@@ -1,3 +1,7 @@
+###############################################################
+## CLEAN NOZZLE                                              ##
+###############################################################
+
 [gcode_macro CLEAN_NOZZLE]
 description: Cleans the nozzle by moving between X=235 and X=255
 variable_start_x: 305     # Initial X position
